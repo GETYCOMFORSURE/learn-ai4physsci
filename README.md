@@ -12,6 +12,11 @@ Tracking progress of learning AI
 
 ### 2. Chemistry Labs (12h each, fully practical)
 - Spin Hamiltonians and Basic Spin Physics
-- Data Processing and Machine Learning in Chemistry
+- [Data Processing and Machine Learning in Chemistry](https://github.com/GETYCOMFORSURE/ftir-substituent-classifier)
 
-## Mar (Easter Vacation): Dive Into Specific Topics ...
+## Mar (Easter Vacation): 
+### 1. Probability & Statistics Courses
+- [Probability bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR3sNYvfgiKgcStwuPSts9V)
+- [Statistics bootcamp](https://www.youtube.com/playlist?list=PLMrJAkhIeNNT14qn1c5qdL29A1UaHamjx)
+### 2. project: LLM-guided evolutionary ansatz search for VQE
+https://github.com/GETYCOMFORSURE/avo-quantum-trial
